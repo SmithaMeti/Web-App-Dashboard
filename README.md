@@ -44,10 +44,11 @@ It includes user authentication, protected routes, and a task/dashboard system.
 ---
 
 ## 📂 Project Structure
-
+```
 Web-App-Dashboard/
 ├── frontend/
 ├── backend/
 ├── .gitignore
 └── README.md
+```
 
