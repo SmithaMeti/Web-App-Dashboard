@@ -52,3 +52,22 @@ Web-App-Dashboard/
 └── README.md
 ```
 
+## ▶️ Getting Started
+```
+git clone https://github.com/SmithaMeti/Web-App-Dashboard.git
+cd Web-App-Dashboard
+```
+
+### Backend Setup
+```
+cd backend
+npm install
+npm run dev
+```
+
+### Frontend Setup
+```
+cd frontend
+npm install
+npm run dev
+```
